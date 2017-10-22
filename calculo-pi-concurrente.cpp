@@ -7,6 +7,8 @@
 //
 // Historial:
 // Creado en Abril de 2017
+//
+// Compilacón: g++ -std=c++11 -pthread -I. -o calculo-pi calculo-pi-concurrente.cpp Semaphore.cpp
 // -----------------------------------------------------------------------------
 
 #include <iostream>

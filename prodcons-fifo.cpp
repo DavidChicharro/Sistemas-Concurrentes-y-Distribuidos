@@ -1,3 +1,5 @@
+// Compilación: g++ -std=c++11 -pthread -I. -o prod-cons-fifo prodcons-fifo.cpp Semaphore.cpp
+
 #include <iostream>
 #include <cassert>
 #include <thread>

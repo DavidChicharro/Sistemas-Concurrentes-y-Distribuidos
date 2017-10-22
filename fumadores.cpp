@@ -1,3 +1,6 @@
+// Compilación: g++ -std=c++11 -pthread -I. -o fumadores fumadores.cpp Semaphore.cpp 
+// El programa ejecuta un bucle infinito. Pararlo con Ctrl+C o Ctrl+Z
+
 #include <iostream>
 #include <cassert>
 #include <thread>

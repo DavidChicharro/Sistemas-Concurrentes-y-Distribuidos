@@ -1,3 +1,5 @@
+// Compilación: g++ -std=c++11 -pthread -I. -o prod-cons-lifo prodcons-lifo.cpp Semaphore.cpp
+
 #include <iostream>
 #include <cassert>
 #include <thread>
